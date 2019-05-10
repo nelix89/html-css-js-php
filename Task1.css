@@ -1,0 +1,23 @@
+    #tab {
+        margin-left: 40px;
+    }
+    
+    #tab1 {
+        margin-left: 600px;
+    }
+    
+    #tab2 {
+        margin-left: 1000px;
+    }
+    
+    #bg1 {
+        background-color: #1e74ff;
+    }
+    
+    #bg2 {
+        background-color: #002259;
+    }
+    
+    .body {
+        margin: 0;
+    }
